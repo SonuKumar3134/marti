@@ -1,18 +1,18 @@
 Text,API,Time,WER,MER,WIL
-Comiendo moscas,sphinx,1.3121998310089111,2.5,1.0,1.0
-Comiendo moscas,google,1.5458250045776367,0.0,0.0,0.0
-Comiendo moscas,whisper,3.8470618724823,0.5,0.3333333333333333,0.3333333333333333
-Comiendo moscas,wit,1.793572187423706,0.0,0.0,0.0
-Comiendo moscas,google_cloud,2.1226601600646973,0.0,0.0,0.0
-Comiendo moscas,azure,3.326658010482788,0.0,0.0,0.0
-Comiendo moscas,houndify,1.887976884841919,1.5,0.75,0.875
-Comiendo moscas,voicegain,3.816855192184448,0.0,0.0,0.0
-Comiendo moscas,picovoice,0.2132899761199951,2.0,1.0,1.0
-Comiendo moscas,openai_whisper,1.6403768062591553,0.0,0.0,0.0
-Comiendo moscas,vosk,0.226398229598999,0.0,0.0,0.0
-Comiendo moscas,assemblyai,16.0063259601593,0.0,0.0,0.0
-Comiendo moscas,aws,14.880182981491089,0.0,0.0,0.0
-Comiendo moscas,deepgram,1.5294818878173828,0.0,0.0,0.0
+Arm the motors,sphinx,1.3121998310089111,2.5,1.0,1.0
+Arm the motors,google,1.5458250045776367,0.0,0.0,0.0
+Arm the motors,whisper,3.8470618724823,0.5,0.3333333333333333,0.3333333333333333
+Arm the motors,wit,1.793572187423706,0.0,0.0,0.0
+Arm the motors,google_cloud,2.1226601600646973,0.0,0.0,0.0
+Arm the motors,azure,3.326658010482788,0.0,0.0,0.0
+Arm the motors,houndify,1.887976884841919,1.5,0.75,0.875
+Arm the motors,voicegain,3.816855192184448,0.0,0.0,0.0
+Arm the motors,picovoice,0.2132899761199951,2.0,1.0,1.0
+Arm the motors,openai_whisper,1.6403768062591553,0.0,0.0,0.0
+Arm the motors,vosk,0.226398229598999,0.0,0.0,0.0
+Arm the motors,assemblyai,16.0063259601593,0.0,0.0,0.0
+Arm the motors,aws,14.880182981491089,0.0,0.0,0.0
+Arm the motors,deepgram,1.5294818878173828,0.0,0.0,0.0
 ¿Cuál es tu cancion favorita?,sphinx,2.827035903930664,1.2,1.0,1.0
 ¿Cuál es tu cancion favorita?,google,1.3712341785430908,0.0,0.0,0.0
 ¿Cuál es tu cancion favorita?,whisper,1.2646830081939695,0.0,0.0,0.0
@@ -881,17 +881,16 @@ Vivo en california,vosk,0.3699908256530761,0.3333333333333333,0.3333333333333333
 Vivo en california,assemblyai,16.101505756378174,0.0,0.0,0.0
 Vivo en california,aws,16.412707090377808,0.6666666666666666,0.5,0.6666666666666667
 Vivo en california,deepgram,1.3916420936584473,0.6666666666666666,0.6666666666666666,0.6666666666666667
-¿Y tú?,sphinx,0.802847146987915,1.0,1.0,1.0
-¿Y tú?,google,1.0944840908050537,0.0,0.0,0.0
-¿Y tú?,whisper,1.16273832321167,0.0,0.0,0.0
-¿Y tú?,wit,1.7578675746917725,0.0,0.0,0.0
-¿Y tú?,google_cloud,1.2363040447235107,1.0,1.0,1.0
-¿Y tú?,azure,2.5370190143585205,0.0,0.0,0.0
-¿Y tú?,houndify,1.67071795463562,1.0,1.0,1.0
-¿Y tú?,voicegain,2.945913791656494,0.0,0.0,0.0
-¿Y tú?,picovoice,0.1462540626525879,1.0,1.0,1.0
-¿Y tú?,openai_whisper,1.8571159839630127,0.5,0.5,0.75
-¿Y tú?,vosk,0.1306381225585937,0.0,0.0,0.0
-¿Y tú?,assemblyai,9.737954139709473,0.5,0.5,0.75
-¿Y tú?,aws,16.22523784637451,0.5,0.5,0.75
-¿Y tú?,deepgram,1.6014761924743652,0.0,0.0,0.0
+Take off,sphinx,0.802847146987915,1.0,1.0,1.0
+Take off,google,1.0944840908050537,0.0,0.0,0.0
+Take off,whisper,1.16273832321167,0.0,0.0,0.0
+Take off,wit,1.7578675746917725,0.0,0.0,0.0
+Take off,google_cloud,1.2363040447235107,1.0,1.0,1.0
+Take off,azure,2.5370190143585205,0.0,0.0,0.0
+Take off,houndify,1.67071795463562,1.0,1.0,1.0
+Take off,voicegain,2.945913791656494,0.0,0.0,0.0
+Take off,picovoice,0.1462540626525879,1.0,1.0,1.0
+Take off,openai_whisper,1.8571159839630127,0.5,0.5,0.75
+Take off,vosk,0.1306381225585937,0.0,0.0,0.0
+Take off,aws,16.22523784637451,0.5,0.5,0.75
+Take off,deepgram,1.6014761924743652,0.0,0.0,0.0
